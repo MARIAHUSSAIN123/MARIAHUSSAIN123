@@ -3,10 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARIAHUSSAIN123&show_icons=true&theme=tokyonight&v=1" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIAHUSSAIN123&layout=compact&theme=tokyonight&v=1" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MARIAHUSSAIN123&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARIAHUSSAIN123&theme=tokyonight" height="150"/>
 </div>
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
