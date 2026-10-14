@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maria Hussain and I'm a Full Stack Developer from Karachi, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Maria Hussain and I'm a Full Stack Developer and AI data scientist from Karachi, Pakistan</h2>
 
 ###
 
